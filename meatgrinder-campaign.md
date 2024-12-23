@@ -58,7 +58,7 @@ Basic troops are:
 | Faction                           | Basic Troops                                        |
 | -------                           | ------------                                        |
 | Heretic Legion                    | Heretic Trooper, Wretch                             |
-| Trench Pilgrims                   | Trench Pilgrim                                      |
+| Trench Pilgrims                   | Trench Pilgrim , Ecclesiastic Prisoner              |
 | Iron Sultanate                    | Azebs                                               |
 | Principality of New Antioch       | Yeoman                                              |
 | Cult of the Black Grail           | Hounds of the Black Grail, Grail Thrall, Fly Thrall |
